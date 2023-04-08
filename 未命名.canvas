@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6199d37f4c679620","x":-92,"y":-250,"width":250,"height":60,"color":"3","type":"text","text":""},
+		{"id":"18de5a40c7424e4a","x":33,"y":-101,"width":250,"height":60,"type":"text","text":"46"},
+		{"id":"b88517bc5ea35042","x":-100,"y":-376,"width":400,"height":461,"type":"group","label":"Untitled group"},
+		{"id":"8b1b73eebf9e02f0","x":-398,"y":-335,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
