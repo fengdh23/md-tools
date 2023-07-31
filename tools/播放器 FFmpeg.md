@@ -3,6 +3,8 @@
 
 一个如何调用 FFmpeg 视频库的教程，有中文翻译。
 
+TK 大神 下载加密的视频。
+
 
 [神奇的 H.264](https://sidbala.com/h-264-is-magic/)（英文）
 
