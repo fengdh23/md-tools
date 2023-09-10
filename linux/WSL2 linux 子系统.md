@@ -14,9 +14,31 @@
 参照 (https://www.yuque.com/flynn-xrjvz/mgkqnn/blax3616pxfys2rv)
 
 
+需要开启 Hyper-V
+
+![](https://cdn.nlark.com/yuque/0/2022/png/2811836/1671416150499-4408fffd-ea56-4d38-a9e2-32522a7cfee5.png)
+
+## linux 用户信息
+
+[https://learn.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password](https://learn.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password)
+
+第一次启动。会提示 用户 密码
+
+![](https://cdn.nlark.com/yuque/0/2022/png/2811836/1671416188553-65227300-0113-429b-88f4-65477558b1c6.png)
+
+![](https://cdn.nlark.com/yuque/0/2022/png/2811836/1671416824418-73145847-f1b0-4ce3-b1bb-ccd820881397.png)
+
+升级
+
+
 卸载 ：wsl --unregister distroName
 
 ![image.png](https://gitee.com/flynnhai/picgohost/raw/master/img/202304101105566.png)
+
+
+# WSL2提供原生Systemd 支持
+
+[https://mp.weixin.qq.com/s/pQMK4uBpMo1YUXCCD4AgDA](https://mp.weixin.qq.com/s/pQMK4uBpMo1YUXCCD4AgDA)
 
 
 
@@ -79,6 +101,9 @@ https://geekrewind.com/how-to-login-as-root-on-ubuntu-with-windows-wsl/
 市面上 WSL 发行版也只有寥寥几款，且 WSL 只能默认安装到系统盘中，如果原本系统盘容量较小，就很容易造成 Windows 的系统盘空间不足。再加上羸弱的 WSL 官方命令行管理工具，实际使用起来也非常不方便。显然如果想要在 Windows 10 上让 WSL 可能还真的需要一些「新手段」。
 https://sspai.com/post/61634
 
+## 多个wsl 模拟集群？
+
+[https://www.imlc.me/wsl2%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85%E5%A4%9A%E4%B8%AAUbuntu/](https://www.imlc.me/wsl2%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85%E5%A4%9A%E4%B8%AAUbuntu/)
 
 ## 2 命令行 可以自定义路径
 
@@ -127,6 +152,9 @@ wsl --import newName E:\wslDistroStorage\CentOS .\centos.tar
 ## SSH
 Ubuntu子系统后默认是没有开启SSH服务的，需要手动配置开启
 
+正常安装 openssh 就可以了，配置都不用改。
+
+密码就是用户密码。
 ## 安装docker
 
 参考 https://zhuanlan.zhihu.com/p/148511634
@@ -155,3 +183,24 @@ docker pull busybox
 docker images
 ```
 ![image.png](https://gitee.com/flynnhai/picgohost/raw/master/img/202304101635873.png)
+
+# 安装K8s 网络问题等不推荐
+
+虽然Docker desktop中有建K8s的选项，但启动很慢，不建议使用，Docker总想去侵占容器编排的活儿，所以建议还是自己在Ubuntu中安装
+
+# 复制windows文件到wsl
+
+资源管理器无权限。后面 可以验证。
+
+![](https://cdn.nlark.com/yuque/0/2023/png/2811836/1680261463763-6d464026-5bfe-47ae-9a8a-e20df7f296f1.png)
+
+`sudo mv /mnt/e/rocketmq-all-4.9.4-bin-release.zip /opt/`
+
+/mnt/$盘符， c 、d、e ..
+
+需要sudo 命令
+# Ref
+
+1. [https://www.windowscentral.com/how-install-wsl2-windows-10](https://www.windowscentral.com/how-install-wsl2-windows-10)
+2. [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
+3. [wsl 基本命令]([https://learn.microsoft.com/en-us/windows/wsl/basic-commands](https://learn.microsoft.com/en-us/windows/wsl/basic-commands))
