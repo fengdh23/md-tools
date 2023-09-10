@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "fd16bbf9987db0ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6b3ac0be133b7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af86ad121dc82815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多媒体/obs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53f722271caf5a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自动签到/自动签到.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "965c73b9cdb5cdc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c6a34dea456ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feca6adcd9f3ca07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c10f2b182e207df2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "uml",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b33f3dc0bfd207d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5e809ae880757bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "6c5f415f43548b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26c1fd1866b7e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23663935d5aab329",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "自动签到/自动签到.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "168cf15bc5963340",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "自动签到/自动签到.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb10fd1ee68f3dde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98db9630d7abc3d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "自动签到/自动签到.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "feca6adcd9f3ca07",
+  "lastOpenFiles": [
+    "旧手机- 服务器.md",
+    "远程桌面.md",
+    "自动签到/自动签到.md",
+    "自动签到",
+    "linux/WSL2 linux 子系统.md",
+    "小程序.md",
+    "图片pic.md",
+    "缩放图片.md",
+    "双屏显示器.md",
+    "时间管理.md",
+    "记忆力 数字-联想.md",
+    "代码辅助编程.md",
+    "磁盘-C盘扩容.md",
+    "windows/windows安装多个jdk.md",
+    "windows/windows11.md",
+    "网络/wireshark.md",
+    "网络/fiddler.md",
+    "浏览器/Google搜索技巧.md",
+    "浏览器/chrome/Puppeteer-无头浏览器.md",
+    "浏览器/chrome/Chrome.md",
+    "浏览器/chrome/文章总结.md",
+    "浏览器/chrome/视频总结.md",
+    "QuantumultX.md",
+    "README.md",
+    "未命名.md",
+    "windows11 双显示器 分辨率不一致.md",
+    "window 瘦身.md",
+    "演示",
+    "tools/Pasted image 20221216100057.png",
+    "网络",
+    "ide/vscode",
+    "ide/idea",
+    "浏览器/chrome",
+    "windows",
+    "浏览器",
+    "K8S",
+    "多媒体",
+    "tools/Pasted image 20221216105907.png",
+    "tools/Pasted image 20221216105510.png",
+    "tools/Pasted image 20221216105315.png"
+  ]
+}
