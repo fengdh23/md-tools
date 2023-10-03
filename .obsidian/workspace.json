@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uml",
+                "query": "jenkins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
