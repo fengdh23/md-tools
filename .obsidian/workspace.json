@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动签到/自动签到.md",
+                "file": "windows/共享鼠标.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jenkins",
+                "query": "共享鼠标",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "多媒体/obs.md",
+                "file": "windows/共享鼠标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多媒体/obs.md",
+                "file": "windows/共享鼠标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "多媒体/obs.md"
+                "file": "windows/共享鼠标.md"
               }
             }
           }
@@ -170,23 +171,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "feca6adcd9f3ca07",
+  "active": "53f722271caf5a20",
   "lastOpenFiles": [
+    "多媒体/obs.md",
+    "记忆力 数字-联想.md",
+    "图片pic.md",
+    "windows/windows11.md",
+    "windows/共享鼠标.md",
+    "磁盘-C盘扩容.md",
     "旧手机- 服务器.md",
     "远程桌面.md",
     "自动签到/自动签到.md",
     "自动签到",
     "linux/WSL2 linux 子系统.md",
     "小程序.md",
-    "图片pic.md",
     "缩放图片.md",
     "双屏显示器.md",
     "时间管理.md",
-    "记忆力 数字-联想.md",
     "代码辅助编程.md",
-    "磁盘-C盘扩容.md",
     "windows/windows安装多个jdk.md",
-    "windows/windows11.md",
     "网络/wireshark.md",
     "网络/fiddler.md",
     "浏览器/Google搜索技巧.md",
@@ -197,8 +200,6 @@
     "QuantumultX.md",
     "README.md",
     "未命名.md",
-    "windows11 双显示器 分辨率不一致.md",
-    "window 瘦身.md",
     "演示",
     "tools/Pasted image 20221216100057.png",
     "网络",
