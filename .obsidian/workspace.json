@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/windows11.md",
+                "file": "android/android 环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "手机",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/windows11.md",
+                "file": "android/android 环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/windows11.md",
+                "file": "android/android 环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/windows11.md"
+                "file": "android/android 环境.md"
               }
             }
           }
@@ -172,15 +172,18 @@
   },
   "active": "53f722271caf5a20",
   "lastOpenFiles": [
+    "android/adb.md",
+    "android/android 环境.md",
+    "旧手机- 服务器.md",
+    "android",
+    "windows/windows11.md",
     "windows/最好用的文件搜索-everything.md",
     "windows/共享鼠标.md",
     "远程桌面.md",
     "多媒体/obs.md",
     "记忆力 数字-联想.md",
     "图片pic.md",
-    "windows/windows11.md",
     "磁盘-C盘扩容.md",
-    "旧手机- 服务器.md",
     "自动签到/自动签到.md",
     "自动签到",
     "linux/WSL2 linux 子系统.md",
@@ -197,8 +200,6 @@
     "浏览器/chrome/Chrome.md",
     "浏览器/chrome/文章总结.md",
     "浏览器/chrome/视频总结.md",
-    "QuantumultX.md",
-    "README.md",
     "演示",
     "tools/Pasted image 20221216100057.png",
     "网络",
@@ -208,7 +209,6 @@
     "windows",
     "浏览器",
     "K8S",
-    "多媒体",
     "tools/Pasted image 20221216105907.png",
     "tools/Pasted image 20221216105510.png",
     "tools/Pasted image 20221216105315.png"
