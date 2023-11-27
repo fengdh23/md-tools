@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/android 环境.md",
+                "file": "android/gradle.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "47d50fc6f2f1a7f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/android 环境.md",
+                "file": "android/gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/android 环境.md",
+                "file": "android/gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/android 环境.md"
+                "file": "android/gradle.md"
               }
             }
           }
@@ -170,10 +180,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "53f722271caf5a20",
+  "active": "47d50fc6f2f1a7f4",
   "lastOpenFiles": [
-    "android/adb.md",
     "android/android 环境.md",
+    "android/gradle.md",
+    "android/adb.md",
     "旧手机- 服务器.md",
     "android",
     "windows/windows11.md",
@@ -199,7 +210,6 @@
     "浏览器/chrome/Puppeteer-无头浏览器.md",
     "浏览器/chrome/Chrome.md",
     "浏览器/chrome/文章总结.md",
-    "浏览器/chrome/视频总结.md",
     "演示",
     "tools/Pasted image 20221216100057.png",
     "网络",
