@@ -35,14 +35,28 @@
             "id": "47d50fc6f2f1a7f4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "windows/windows11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d02eeb73e0622249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android子系统-亚马逊应用商店.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/gradle.md",
+                "file": "Android子系统-亚马逊应用商店.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/gradle.md",
+                "file": "Android子系统-亚马逊应用商店.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/gradle.md"
+                "file": "Android子系统-亚马逊应用商店.md"
               }
             }
           }
@@ -180,14 +194,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "47d50fc6f2f1a7f4",
+  "active": "d02eeb73e0622249",
   "lastOpenFiles": [
+    "windows/windows11.md",
+    "Android子系统-亚马逊应用商店.md",
     "android/android 环境.md",
     "android/gradle.md",
     "android/adb.md",
     "旧手机- 服务器.md",
     "android",
-    "windows/windows11.md",
     "windows/最好用的文件搜索-everything.md",
     "windows/共享鼠标.md",
     "远程桌面.md",
@@ -209,7 +224,6 @@
     "浏览器/Google搜索技巧.md",
     "浏览器/chrome/Puppeteer-无头浏览器.md",
     "浏览器/chrome/Chrome.md",
-    "浏览器/chrome/文章总结.md",
     "演示",
     "tools/Pasted image 20221216100057.png",
     "网络",
