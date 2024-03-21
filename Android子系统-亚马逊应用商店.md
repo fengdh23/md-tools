@@ -10,6 +10,8 @@
 
 cannot connect to 127.0.0.1:58526: 由于目标计算机积极拒绝，无法连接。 (10061)
 
+
+
 ![image.png](https://gitee.com/flynnhai/picgohost/raw/master/img/202402281022307.png)
 
 ![image.png](https://gitee.com/flynnhai/picgohost/raw/master/img/202402281023733.png)
@@ -30,3 +32,6 @@ https://uint128.com/2021/11/03/%E4%BD%BF%E7%94%A8Fiddler%E5%9C%A8WSA-Windows%E5%
 点击任何按钮都异常退出。
 切换成 US 就好了。
 ![image.png](https://gitee.com/flynnhai/picgohost/raw/master/img/202402281014490.png)
+
+
+`adb conect 127.0.0.1:58526`

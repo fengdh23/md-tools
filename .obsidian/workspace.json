@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "多媒体/obs.md",
+                "file": "Android子系统-亚马逊应用商店.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多媒体/obs.md",
+                "file": "Android子系统-亚马逊应用商店.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "多媒体/obs.md"
+                "file": "Android子系统-亚马逊应用商店.md"
               }
             }
           }
@@ -195,11 +195,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c10f2b182e207df2",
+  "active": "d02eeb73e0622249",
   "lastOpenFiles": [
-    "windows/windows11.md",
-    "Android子系统-亚马逊应用商店.md",
     "android/android 环境.md",
+    "Android子系统-亚马逊应用商店.md",
+    "多媒体/obs.md",
+    "windows/windows11.md",
     "android/gradle.md",
     "android/adb.md",
     "旧手机- 服务器.md",
@@ -207,7 +208,6 @@
     "windows/最好用的文件搜索-everything.md",
     "windows/共享鼠标.md",
     "远程桌面.md",
-    "多媒体/obs.md",
     "记忆力 数字-联想.md",
     "图片pic.md",
     "磁盘-C盘扩容.md",
