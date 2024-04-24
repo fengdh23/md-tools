@@ -1,3 +1,6 @@
+#梯子 #VPN
+
+
 教程：
 
 文档 [https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#08b1dc5db23349a6b6d2720ed77f9235](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#08b1dc5db23349a6b6d2720ed77f9235)

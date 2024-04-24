@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/gradle.md",
+                "file": "手机-Android/投屏.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android子系统-亚马逊应用商店.md",
+                "file": "windows/Windows 包管理器.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kafka",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android子系统-亚马逊应用商店.md",
+                "file": "手机-Android/投屏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android子系统-亚马逊应用商店.md",
+                "file": "手机-Android/投屏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android子系统-亚马逊应用商店.md"
+                "file": "手机-Android/投屏.md"
               }
             }
           }
@@ -195,23 +194,28 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d02eeb73e0622249",
+  "active": "53f722271caf5a20",
   "lastOpenFiles": [
-    "android/android 环境.md",
-    "Android子系统-亚马逊应用商店.md",
-    "多媒体/obs.md",
-    "windows/windows11.md",
+    "手机-Android/旧手机- 服务器.md",
+    "手机-Android/投屏.md",
     "android/gradle.md",
+    "windows/windows11.md",
+    "windows/Windows 包管理器.md",
+    "手机-Android",
+    "图片pic.md",
+    "win11原生系统上直接安装运行安卓app.md",
+    "QuantumultX.md",
+    "自动签到/自动签到.md",
+    "Android子系统-亚马逊应用商店.md",
+    "android/android 环境.md",
     "android/adb.md",
-    "旧手机- 服务器.md",
+    "多媒体/obs.md",
     "android",
     "windows/最好用的文件搜索-everything.md",
     "windows/共享鼠标.md",
     "远程桌面.md",
     "记忆力 数字-联想.md",
-    "图片pic.md",
     "磁盘-C盘扩容.md",
-    "自动签到/自动签到.md",
     "自动签到",
     "linux/WSL2 linux 子系统.md",
     "小程序.md",
@@ -221,10 +225,6 @@
     "代码辅助编程.md",
     "windows/windows安装多个jdk.md",
     "网络/wireshark.md",
-    "网络/fiddler.md",
-    "浏览器/Google搜索技巧.md",
-    "浏览器/chrome/Puppeteer-无头浏览器.md",
-    "浏览器/chrome/Chrome.md",
     "演示",
     "tools/Pasted image 20221216100057.png",
     "网络",
@@ -233,7 +233,6 @@
     "浏览器/chrome",
     "windows",
     "浏览器",
-    "K8S",
     "tools/Pasted image 20221216105907.png",
     "tools/Pasted image 20221216105510.png",
     "tools/Pasted image 20221216105315.png"

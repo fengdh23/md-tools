@@ -1,4 +1,4 @@
-gradle
+# gradle
 geadle plugin
 
 还和 JDK 的版本有关系
