@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wsl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手机-Android/投屏.md",
+                "file": "多媒体/obs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手机-Android/投屏.md",
+                "file": "多媒体/obs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手机-Android/投屏.md"
+                "file": "多媒体/obs.md"
               }
             }
           }
@@ -194,7 +195,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "53f722271caf5a20",
+  "active": "c10f2b182e207df2",
   "lastOpenFiles": [
     "手机-Android/旧手机- 服务器.md",
     "手机-Android/投屏.md",
